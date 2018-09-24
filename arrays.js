@@ -23,6 +23,7 @@ function destructivelyAddElementToEndOfArray (array, element){
   return array;
 }
 
+<<<<<<< HEAD
 function accessElementInArray (array, index){
   return array[index];
 }
@@ -43,3 +44,6 @@ function destructivelyRemoveElementFromEndOfArray (array){
 function removeElementFromEndOfArray(array){
   return array.slice(0, array.length -1);
 }
+=======
+function 
+>>>>>>> 659f4acbf91d2af98f270fc1f955cf247ed3affa
